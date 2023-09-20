@@ -24,3 +24,7 @@ Download this repository and then mark `build.sh` as executable:
 * `$ chmod +x build.sh`. 
 After running the shell script a docker container with the tag: `factorial-digits` will be created. You can then run the solution with the following command: 
 * `$ sudo docker run --rm factorial-digits 100`
+
+### Other Implementations
+
+[https://github.com/Suvana-Rohanlal/Factorial_sum](https://github.com/Suvana-Rohanlal/Factorial_sum)
