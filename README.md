@@ -20,7 +20,7 @@ The solution was required to adhere to the following constraints:
 
 ### Instructions
 
-Download this repository and then mark **build.sh** as executable: 
+Download this repository and then mark `build.sh` as executable: 
 * `$ chmod +x build.sh`. 
-After running the shell script a docker container with the tag: **factorial-digits** will be created. You can then run the solution with the following command: 
+After running the shell script a docker container with the tag: `factorial-digits` will be created. You can then run the solution with the following command: 
 * `$ sudo docker run --rm factorial-digits 100`
