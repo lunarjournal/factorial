@@ -29,3 +29,4 @@ After running the shell script a docker container with the tag: `factorial-digit
 
 * [https://github.com/Suvana-Rohanlal/Factorial_sum](https://github.com/Suvana-Rohanlal/Factorial_sum)
 * [https://github.com/jamesroberthershaw/factorial-digits/](https://github.com/jamesroberthershaw/factorial-digits)
+* [https://github.com/sudo-sekiro/factorial-digits/](https://github.com/sudo-sekiro/factorial-digits/)
