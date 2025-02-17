@@ -1,4 +1,4 @@
-### Factorial (Technical Assignment)
+### Factorial (Corigine Technical Assignment)
 
 Author: `Dylan Muller` <br>
 Date Received: `20/01/2022` <br>
